@@ -25,7 +25,7 @@ st.title('Desafio - Processo Seletivo ANATEL')
 st.markdown(
     """
     Este Dashboard interativo reflete a Análise de Dados feita para o Processo Seletivo da Anatel.
-    Código-fonte disponível no meu [Portfólio no Github](https://github.com/felipe-sanches/data_science)
+    Código-fonte disponível no meu [Github](https://github.com/felipe-sanches/desafio-anatel)
 
     -
     """
